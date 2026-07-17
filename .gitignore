@@ -10,3 +10,4 @@ dist/
 # Логи и переменные окружения
 *.log
 .env
+node_modules
